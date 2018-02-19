@@ -1,4 +1,4 @@
-#Rave Java Plugin V1
+# Rave Java Plugin V1
 
 ### What this does
 This library allows you to integrate easily with *rave by flutterwave* payment gateway.
@@ -14,11 +14,12 @@ The following are the dependencies required to use this library
 *   httpclient-4.5.3.jar
 
 
-###Before you use
+### Before you use
 1.  Sign up at [rave by Flutterwave](https://rave.flutterwave.com) to get the required integration parameters
-2.  Download the plugin and build as jar
-3.  Add the Dependencies to your project
-4.  Build and Run your application.
+2.  Download the plugin and build 
+3.  Add plugin to project
+4.  Add the Dependencies to your project
+5.  Build and Run your application.
 
 
 #### Sample Card Charge
